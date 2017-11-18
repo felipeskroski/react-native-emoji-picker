@@ -15,8 +15,9 @@
     "emoji-picker"
   ],
   "devDependencies": {
-    "react": "^15.2.0",
-    "react-native": "^0.30.0"
+    "react": "16.0.0",
+    "react-native": "^0.47.0",
+    "prop-types": "^15.5.10"
   },
   "dependencies": {
     "emoji-datasource": "^2.4.4",
