@@ -15,13 +15,13 @@
     "emoji-picker"
   ],
   "devDependencies": {
-    "react": "16.0.0",
+    "react": "16.0.0-rc.3",
     "react-native": "^0.47.0",
     "prop-types": "^15.5.10"
   },
   "dependencies": {
     "emoji-datasource": "^2.4.4",
-    "lodash": "^4.11.1",
+    "lodash": "^4.17.4",
     "string.fromcodepoint": "^0.2.1"
   },
   "author": "Yonah Forst <yonaforst@hotmail.com> (https://github.com/yonahforst)",
