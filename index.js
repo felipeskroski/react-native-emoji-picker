@@ -1,6 +1,5 @@
 'use strict'
 import React, { Component } from 'react'
-import PropTypes from 'prop-types'
 
 import {
   StyleSheet,
@@ -187,9 +186,5 @@ let styles = StyleSheet.create({
     textAlignVertical: 'center',
   },
 })
-
-EmojiPicker.propTypes = {
-  onEmojiSelected: PropTypes.func.isRequired,
-}
 
 export { EmojiPicker as default, EmojiOverlay as EmojiOverlay }
